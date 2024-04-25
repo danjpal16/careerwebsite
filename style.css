@@ -1,0 +1,17 @@
+.bg-hero-image{
+    background-image: url('codebg.avif');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 21%;
+}
+
+.navbar1 {
+    font-family: "Press Start 2P", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.body1 {
+    background-color: black;
+}
