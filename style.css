@@ -7,3 +7,15 @@
 .body1 {
     background-color: black;
 }
+
+.bodyfont {
+    font-family: "Roboto Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+
+.img1 {
+    height: 300px;
+    width: 300px;
+}
